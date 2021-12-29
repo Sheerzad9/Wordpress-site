@@ -15,7 +15,7 @@ Everything is build with Wordpress and there is following plug-ins included.
 <br /><br />
 # To get started
 * To get started you will have to have XAMPP installed on your local computer.
-* Create an folder and copy all of the repository files and folders except(import-DB folder and website-pictures folder), then insert them in your created folder.
+* Create an folder and copy all of the repository files and folders except(import-DB folder and website-pictures folder), after copying insert them in your created folder.
 * Paste your created file in \xampp\htdocs folder.
 * Start your Apache and MySQL via running xampp-control application which can be found in your xampp folder.
 * Go to http://localhost/phpmyadmin/ and create new db with the name "localdb"(if you choose to set other db name then please update it to "wp-config.php" file, otherwise it won't work).
