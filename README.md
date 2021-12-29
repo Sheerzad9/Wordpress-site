@@ -32,6 +32,6 @@ Everything is build with Wordpress and there is following plug-ins included.
 ![Services-page](https://github.com/Sheerzad9/Wordpress-site/blob/main/website-pictures/Service-page.png)
 ## About Us-page
 ![About us-page](https://github.com/Sheerzad9/Wordpress-site/blob/main/website-pictures/About-us-page.png)
-## Conact Us-page
+## Contact Us-page
 ![Contact us-page](https://github.com/Sheerzad9/Wordpress-site/blob/main/website-pictures/Contact-us-page.png)
 
