@@ -20,7 +20,7 @@ Everything is build with Wordpress and there is following plug-ins included.
 * Start your Apache and MySQL via running xampp-control application which can be found inside your xampp folder.
 * Go to http://localhost/phpmyadmin/ and create new db with the name "localdb"(if you choose to set other db name then please update it to "wp-config.php" file, otherwise it won't work).
 * In your db import the db which can be found on this repository, inside "import-DB" folder. 
-* After importing, go to "wp_user" table and create your own user.
+* After importing, inside your newly created db go to "wp_user" table and create your own user.
 * You should now be able to see the pages at http://localhost/theFolderName , and log in at http://localhost/theFolderName/wp-login.php to modify, create or whatever you want to do with the pages😁
 <br /><br />
 # Pictures of my wordpress site
