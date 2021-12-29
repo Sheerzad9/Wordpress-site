@@ -21,7 +21,7 @@ Everything is build with Wordpress and there is following plug-ins included.
 * Go to http://localhost/phpmyadmin/ and create new db with the name "localdb"(if you choose to set other db name then please update it to "wp-config.php" file, otherwise it won't work).
 * In your db import the db which can be found on this repository, inside "import-DB" folder. 
 * After importing, inside your newly created db go to "wp_user" table and create your own user.
-* You should now be able to see the pages at http://localhost/theFolderName , and log in at http://localhost/theFolderName/wp-login.php with your credentials which you created previously in "wp_user" table, after this you can modify content, create new pages, bring mre plug-ins and basically use this as a blueprint fr your own site which you can later host if you want😁
+* You should now be able to see the pages at http://localhost/theFolderName , and log in at http://localhost/theFolderName/wp-login.php with your credentials which you created previously in "wp_user" table, after this you can modify content, create new pages, bring more plug-ins and basically use this as a blueprint for your own site which you can later host if you want😁
 <br /><br />
 # Pictures of my wordpress site
 ## Frontpage
